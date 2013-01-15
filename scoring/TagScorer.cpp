@@ -3,7 +3,7 @@
 namespace scoring {
 
 double
-TagScorer::score(UserSearchQuery &query_obj, const input_t input) const {
+TagScorer::score(UserSearchQuery &query_obj, const input_t input) {
 	double wdf_wt = 1.0;
 	double wdf_sum = 0;
 	query_weight_t &query_weight = query_obj.m_query_weight;
@@ -52,7 +52,7 @@ TagScorer::score(UserSearchQuery &query_obj, const input_t input) const {
 }
 
 double
-TagScorer::score_loose(UserSearchQuery &query_obj, const input_t input) const {
+TagScorer::score_loose(UserSearchQuery &query_obj, const input_t input) {
 	double wdf_sum = 0;
 	query_weight_t &query_weight = query_obj.m_query_weight;
 	query_expansion_t &query_expansion = query_obj.m_query_expansion;

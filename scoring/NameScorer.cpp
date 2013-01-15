@@ -5,6 +5,7 @@
  *      Author: zicheng
  */
 
+#include <math.h>
 #include "NameScorer.hpp"
 
 namespace scoring {
