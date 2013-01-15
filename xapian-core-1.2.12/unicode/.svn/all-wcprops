@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode/Makefile.mk
+END
+utf8itor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode/utf8itor.cc
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode/dir_contents
+END
+tclUniData.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode/tclUniData.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/unicode/Makefile
+END

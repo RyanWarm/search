@@ -1,0 +1,17 @@
+name:   user_search_engine_7
+version: 0.0.1
+
+files:
+  search_engine:  /usr/local/user_search_engine_7/user_search_engine
+
+user: tinybee
+start: /usr/local/user_search_engine_7/user_search_engine 
+        --port=20007 
+        --index-dir=/ram/current_user_index/user_index.7/ 
+        --server-type=user 
+        --memcache-addr=uc03:11211 
+        --memcache-version=v20120113prod
+        --mongodb-addr=uc06:27017 
+        --contacts-company-file=/zdisk_nfs/zhaopin_serving_data/search_engine_data/contacts_company_name
+
+

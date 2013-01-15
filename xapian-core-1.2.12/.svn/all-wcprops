@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ESIS/!svn/ver/6853/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/Makefile.in
+END
+xapian-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/xapian-config.1
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/AUTHORS
+END
+ChangeLog.0
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/ChangeLog.0
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/depcomp
+END
+xapian-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/xapian-config.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/config.guess
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/dir_contents
+END
+docsource.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/docsource.mk
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/config.sub
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/configure.ac
+END
+xapian-core.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/xapian-core.spec.in
+END
+ChangeLog.examples
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/ChangeLog.examples
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/COPYING
+END
+generate-exceptions
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/generate-exceptions
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/NEWS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/README
+END
+xapian-core.spec
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/xapian-core.spec
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/config.h.in
+END
+exception_data.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/exception_data.pm
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/HACKING
+END
+PLATFORMS
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/PLATFORMS
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/Makefile.am
+END
+makemanpage.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/makemanpage.in
+END
+preautoreconf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/preautoreconf
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/install-sh
+END

@@ -1,0 +1,256 @@
+#include <sys/dir.h>
+#include <sys/types.h>
+#include <cstdlib>
+#include <iostream>
+#include <boost/bind.hpp>
+#include <boost/thread/thread.hpp>
+#include <boost/asio.hpp>
+#include <openssl/md5.h>
+#include "Server.hpp"
+#include "Session.hpp"
+#include "UserSearchSession.hpp"
+#include "JobSearchSession.hpp"
+#include "CompanyContactsKeeper.hpp"
+#include "CompanyScoreKeeper.hpp"
+
+Server::Server(boost::asio::io_service& io_service,
+			short port,
+            const char * index_dir,
+            server_type_t server_type,
+            const string &memcache_addr,
+            const string &memcache_version,
+            const string &mongodb_addr,
+            const string &company_list_filename,
+            const string &company_score_filename,
+            int reload_interval)
+: io_service_(io_service),
+	acceptor_(io_service, tcp::endpoint(tcp::v4(), port)),
+    m_index_dir(index_dir),
+    m_com_contacts(0),
+    m_com_score(0),
+    m_memcache_addr(memcache_addr),
+    m_memcache_version(memcache_version),
+    m_mongodb_addr(mongodb_addr),
+    m_company_list_filename(company_list_filename),
+    m_company_score_filename(company_score_filename),
+    thread_num(1),
+    db_pool_size(1),
+    m_server_type(server_type),
+    m_reload_interval(reload_interval)
+{
+}
+
+Server::~Server()
+{
+}
+
+bool
+Server::init()
+{
+    if(m_server_type == SERVER_TYPE_USER){
+        m_com_contacts = new CompanyContactsKeeper(m_mongodb_addr,m_company_list_filename);
+        if(m_com_contacts->init()==false){
+            return false;
+        }
+    }
+    if(m_server_type == SERVER_TYPE_JOB){
+        m_com_score = new CompanyScoreKeeper(m_company_score_filename);
+        if(m_com_score->init()==false){
+            return false;
+        }
+    }
+    memcached_create(&m_memcached_conn);
+    memcached_behavior_set(&m_memcached_conn,MEMCACHED_BEHAVIOR_BINARY_PROTOCOL,1);
+    //memcached_behavior_set(&m_memcached_conn, MEMCACHED_BEHAVIOR_USE_UDP,1);
+    if(m_memcache_addr!=""){
+        memcached_server_st *servers;
+        servers= memcached_servers_parse(m_memcache_addr.c_str());
+        memcached_return_t rc = memcached_server_push(&m_memcached_conn, servers);
+        memcached_server_free(servers);
+        if(rc!=MEMCACHED_SUCCESS){
+            TB_ERROR("connect to memcached failed, error="<<memcached_strerror(NULL, rc));
+            return false;
+        }else{
+            TB_INFO("connected to memcached on "<<m_memcache_addr);
+        }
+    }
+    pthread_mutex_init(&m_cache_lock,0);
+    pthread_mutex_init(&m_db_lock,0);
+    pthread_cond_init(&m_db_cond,0);
+    for(size_t i=0;i<db_pool_size;i++){
+        m_dbs.push_back(new Xapian::Database(m_index_dir));
+        m_dbs_busy.push_back(false);
+        m_dbs_last_reload_ts.push_back(time(0));
+    }
+    TB_INFO("database doccount: "<<m_dbs[0]->get_doccount());
+    Session* new_session = create_session();
+    new_session->init();
+    acceptor_.async_accept(new_session->socket(),
+		boost::bind(&Server::handle_accept, this, new_session,
+		boost::asio::placeholders::error));
+   return true; 
+}
+
+string 
+Server::cache_hash(const string &str)
+{
+    string str_ = m_memcache_version+str;
+    std::transform(str_.begin(), str_.end(), str_.begin(), ::tolower);
+    MD5_CTX ctx;
+    unsigned char md[16];
+    MD5_Init(&ctx);
+    MD5_Update(&ctx,str_.data(),str_.size());
+    MD5_Final(md,&ctx);
+    uint64_t u = *(uint64_t*)md&(~((uint64_t)1<<63));
+    char x[16];
+    sprintf(x,"%lx",u);
+    return string(x,16);
+}
+
+bool 
+Server::cache_set(const string &key,const char *value,size_t valuelen)
+{
+    if(m_memcached_conn.number_of_hosts == 0){
+        return false;
+    }
+    /*
+    vector<char> vv;
+    for(size_t i=0;i<valuelen;i++){
+        vv.push_back(value[i]);
+    }
+    */
+    pthread_mutex_lock(&m_cache_lock);
+    string cachekey = cache_hash(key);
+    memcached_return_t rc= memcached_set(&m_memcached_conn,
+                                       cachekey.c_str(), cachekey.size(),
+                                       value, valuelen,
+                                       86400, 0); 
+    pthread_mutex_unlock(&m_cache_lock);
+    if(rc == MEMCACHED_SUCCESS || rc == MEMCACHED_BUFFERED){
+        TB_INFO("cache set ok: key="<<cachekey);
+        return true;
+    }else{
+        TB_ERROR("cache set failed: error="<<memcached_strerror(NULL, rc)<<",key="<<cachekey<<", valuelen="<<valuelen);
+        return false;    
+    }
+}
+
+bool
+Server::cache_get(const string &key,string &value)
+{
+    if(m_memcached_conn.number_of_hosts == 0){
+        return false;
+    }
+    pthread_mutex_lock(&m_cache_lock);
+    size_t valuelen = 0; 
+    memcached_return_t rc;
+    uint32_t flags= 0;
+    string cachekey = cache_hash(key);
+    char *val = memcached_get(&m_memcached_conn, cachekey.c_str(), cachekey.size(),
+                               &valuelen, &flags, &rc);    
+    pthread_mutex_unlock(&m_cache_lock);
+    if(val != NULL){
+        value = string(val,valuelen);    
+        free(val);
+        return true;
+    }else{
+        TB_ERROR("cache get failed: error="<<memcached_strerror(NULL, rc)<<",key="<<cachekey);
+        return false;
+    }
+}
+
+
+Session *
+Server::create_session(){
+    if(m_server_type == SERVER_TYPE_USER){
+        return dynamic_cast<Session *>(new UserSearchSession(io_service_,this));
+    }else if(m_server_type == SERVER_TYPE_JOB){
+        return dynamic_cast<Session *>(new JobSearchSession(io_service_,this));
+    }else{
+        assert(0);
+        return NULL;
+    }
+}
+
+Xapian::Database * 
+Server::fetch_db()
+{
+    pthread_mutex_lock(&m_db_lock);
+    Xapian::Database *db = 0;
+    while(db == NULL){
+        for(size_t i=0;i<db_pool_size;i++){
+            if(m_dbs_busy[i] == false){
+                m_dbs_busy[i] = true;
+                db = m_dbs[i];
+                if(m_reload_interval>0 and (time(0)-m_dbs_last_reload_ts[i])>m_reload_interval){
+                    db->reopen();
+                    m_dbs_last_reload_ts[i] = time(0);
+                }
+                break;
+            }
+        }
+        if(db == NULL){
+            pthread_cond_wait(&m_db_cond, &m_db_lock);
+        }    
+    }
+    pthread_mutex_unlock(&m_db_lock);
+    TB_DEBUG("fetch db "<<db);
+    return db;
+}
+void 
+Server::release_db(Xapian::Database *db)
+{
+    TB_DEBUG("release db "<<db);
+    pthread_mutex_lock(&m_db_lock);
+    for(size_t i=0;i<db_pool_size;i++){
+        if(m_dbs[i] == db){
+            m_dbs_busy[i] = false;
+            break;
+        }
+    }
+    pthread_mutex_unlock(&m_db_lock);
+    pthread_cond_signal(&m_db_cond);
+}
+
+int Server::run()
+{
+    // Create a pool of threads to run all of the io_services.
+    size_t thread_pool_size_ = thread_num;
+    std::vector<boost::shared_ptr<boost::thread> > threads;
+    for (std::size_t i = 0; i < thread_pool_size_; ++i)
+    {
+        boost::shared_ptr<boost::thread> thread(new boost::thread(
+                    boost::bind(&boost::asio::io_service::run, &io_service_)));
+        threads.push_back(thread);
+    }
+
+    // Wait for all threads in the pool to exit.
+    for (std::size_t i = 0; i < threads.size(); ++i)
+        threads[i]->join(); 
+    return 0; 
+}
+
+int Server::stop()
+{
+    io_service_.stop();
+    return 0;
+}
+
+void Server::handle_accept(Session* new_session,
+        const boost::system::error_code& error)
+{
+    if (!error)
+    {
+        new_session->start();
+        new_session = create_session();
+        new_session->init();
+        acceptor_.async_accept(new_session->socket(),
+                boost::bind(&Server::handle_accept, this, new_session,
+                    boost::asio::placeholders::error));
+    }
+    else
+    {
+        delete new_session;
+    }
+}
+

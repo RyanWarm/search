@@ -1,0 +1,80 @@
+#pragma once
+#include <cstdlib>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <boost/bind.hpp>
+#include <boost/asio.hpp>
+#include <pthread.h>
+#include <libmemcached/memcached.hpp>
+#include "Def.hpp"
+#include "scoring/TagScorer.hpp"
+
+using boost::asio::ip::tcp;
+using namespace std;
+using memcache::Memcache;
+using namespace scoring;
+
+class Session;
+class CompanyContactsKeeper;
+class CompanyScoreKeeper;
+
+class Server
+{
+    friend class Session;
+public:
+    typedef enum{
+        SERVER_TYPE_USER = 0,
+        SERVER_TYPE_JOB
+    } server_type_t;
+    Server(boost::asio::io_service& io_service,
+            short port,
+            const char * index_dir,
+            server_type_t server_type,
+            const string &memcache_addr,
+            const string &memcache_version,
+            const string &mongodb_addr,
+            const string &company_list_filename,
+            const string &company_score_filename,
+            int reload_interval);
+    ~Server();
+    bool init();
+    Session *create_session();
+    int run();
+    int stop();
+    string cache_hash(const string &str);
+    bool cache_set(const string &key,const char *value,size_t valuelen);
+    bool cache_get(const string &key,string &value);
+    void handle_accept(Session* new_session, const boost::system::error_code& error);
+    Xapian::Database *fetch_db();
+    void release_db(Xapian::Database *db);
+private:
+    boost::asio::io_service& io_service_;
+    tcp::acceptor acceptor_;
+
+    string   m_index_dir; 
+    vector<Xapian::Database *> m_dbs;
+    vector<bool> m_dbs_busy;
+    vector<time_t> m_dbs_last_reload_ts;
+public: 
+    CompanyContactsKeeper *m_com_contacts;
+    CompanyScoreKeeper *m_com_score;
+    string m_memcache_addr;
+    string m_memcache_version;
+    string m_mongodb_addr;
+    string m_company_list_filename;
+    string m_company_score_filename;
+
+    scoring::TagScorer *m_tag_scorer;
+private:
+    size_t thread_num;
+    size_t db_pool_size;
+    pthread_mutex_t m_db_lock;
+    pthread_cond_t  m_db_cond;
+    
+    server_type_t m_server_type; 
+    memcached_st m_memcached_conn;
+    pthread_mutex_t m_cache_lock;
+    int m_reload_interval;
+};
+

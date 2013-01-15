@@ -1,0 +1,20 @@
+RM = rm -rf
+AR = ar rc
+
+<<<<<<< .mine
+OBJS = UserSearchItem.o RankingUtils.o SearchRanking.o
+=======
+OBJS = RankingUtils.o
+>>>>>>> .r8888
+
+LIB: $(OBJS)
+	 $(AR) libranking.a $(OBJS)
+
+# All Target
+all: $(LIB)
+
+# Other Targets
+clean:
+	@echo 'Cleaning'
+	$(RM) $(OBJS)
+

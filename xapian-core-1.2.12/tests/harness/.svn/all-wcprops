@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness
+END
+testsuite.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testsuite.h
+END
+backendmanager_multi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_multi.cc
+END
+backendmanager_remote.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remote.cc
+END
+backendmanager_remote.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remote.h
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/Makefile.mk
+END
+testutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testutils.cc
+END
+scalability.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/scalability.h
+END
+backendmanager_remotetcp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remotetcp.cc
+END
+fdtracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/fdtracker.cc
+END
+fdtracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/fdtracker.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/dir_contents
+END
+backendmanager_brass.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_brass.h
+END
+backendmanager_flint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_flint.cc
+END
+backendmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager.h
+END
+backendmanager_remoteprog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remoteprog.cc
+END
+testmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testmacros.h
+END
+backendmanager_remoteprog.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remoteprog.h
+END
+cputimer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/cputimer.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/Makefile
+END
+unixcmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/unixcmds.h
+END
+backendmanager_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_local.h
+END
+backendmanager_multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_multi.h
+END
+scalability.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/scalability.cc
+END
+backendmanager_inmemory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_inmemory.cc
+END
+testutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testutils.h
+END
+backendmanager_inmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_inmemory.h
+END
+backendmanager_remotetcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_remotetcp.h
+END
+backendmanager_chert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_chert.cc
+END
+testrunner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testrunner.cc
+END
+backendmanager_chert.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_chert.h
+END
+testrunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testrunner.h
+END
+backendmanager_brass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_brass.cc
+END
+backendmanager_flint.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager_flint.h
+END
+backendmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/backendmanager.cc
+END
+index_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/index_utils.cc
+END
+index_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/index_utils.h
+END
+testsuite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/testsuite.cc
+END
+cputimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/cputimer.h
+END
+unixcmds.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/harness/unixcmds.cc
+END

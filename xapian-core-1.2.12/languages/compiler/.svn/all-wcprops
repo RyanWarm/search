@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler
+END
+analyser.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/analyser.c
+END
+syswords.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/syswords.h
+END
+tokeniser.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/tokeniser.c
+END
+syswords2.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/syswords2.h
+END
+generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/generator.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/driver.c
+END
+space.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/space.c
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/languages/compiler/header.h
+END

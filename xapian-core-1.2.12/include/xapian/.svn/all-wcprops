@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian
+END
+version_h.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/version_h.cc
+END
+deprecated.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/deprecated.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/types.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/dir_contents
+END
+stem.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/stem.h
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/registry.h
+END
+errordispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/errordispatch.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/base.h
+END
+termgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/termgenerator.h
+END
+queryparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/queryparser.h
+END
+valuesetmatchdecider.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/valuesetmatchdecider.h
+END
+valueiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/valueiterator.h
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/unicode.h
+END
+weight.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6887/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/weight.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/Makefile
+END
+matchspy.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/matchspy.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/error.h
+END
+postingiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/postingiterator.h
+END
+expanddecider.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/expanddecider.h
+END
+postingsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/postingsource.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/database.h
+END
+query.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/query.h
+END
+enquire.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/enquire.h
+END
+keymaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/keymaker.h
+END
+dbfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/dbfactory.h
+END
+positioniterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/positioniterator.h
+END
+document.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/document.h
+END
+termiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/termiterator.h
+END
+derefwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/derefwrapper.h
+END
+visibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/visibility.h
+END
+compactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/compactor.h
+END
+errorhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/include/xapian/errorhandler.h
+END

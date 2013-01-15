@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/Makefile.in
+END
+api_replicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_replicate.h
+END
+api_opsynonym.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_opsynonym.cc
+END
+api_closedb.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_closedb.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/dir_contents
+END
+zlib-vg.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/zlib-vg.c
+END
+stemtest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/stemtest.cc
+END
+api_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_metadata.h
+END
+api_nodb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_nodb.cc
+END
+api_nodb.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_nodb.h
+END
+api_sorting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_sorting.cc
+END
+api_db.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_db.cc
+END
+api_unicode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_unicode.cc
+END
+api_sortingold.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_sortingold.h
+END
+api_weight.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_weight.cc
+END
+api_unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_unicode.h
+END
+api_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_backend.h
+END
+queryparsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/queryparsertest.cc
+END
+api_valuestats.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_valuestats.h
+END
+api_transdb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_transdb.cc
+END
+api_percentages.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_percentages.cc
+END
+api_none.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_none.h
+END
+api_replacedoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_replacedoc.h
+END
+api_postingsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_postingsource.h
+END
+api_stem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_stem.cc
+END
+submitperftest.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/submitperftest.in
+END
+api_closedb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_closedb.cc
+END
+api_spelling.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_spelling.cc
+END
+api_serialise.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_serialise.cc
+END
+apitest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/apitest.h
+END
+internaltest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/internaltest.cc
+END
+api_sorting.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_sorting.h
+END
+api_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_db.h
+END
+api_backend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_backend.cc
+END
+api_qpbackend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_qpbackend.cc
+END
+api_valuestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_valuestream.h
+END
+api_matchspy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_matchspy.h
+END
+api_valuestats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_valuestats.cc
+END
+api_anydb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_anydb.cc
+END
+api_generated.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_generated.cc
+END
+api_wrdb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_wrdb.cc
+END
+api_transdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_transdb.h
+END
+api_none.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_none.cc
+END
+api_generated.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_generated.h
+END
+api_wrdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_wrdb.h
+END
+api_scalability.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_scalability.h
+END
+api_query.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_query.cc
+END
+api_replicate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_replicate.cc
+END
+termgentest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/termgentest.cc
+END
+api_posdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_posdb.h
+END
+api_all.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_all.h
+END
+api_opvalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_opvalue.h
+END
+api_spelling.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_spelling.h
+END
+valgrind.supp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/valgrind.supp
+END
+api_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_metadata.cc
+END
+collate-test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/collate-test
+END
+api_sortingold.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_sortingold.cc
+END
+runsrv.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/runsrv.in
+END
+api_collated.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_collated.h
+END
+runtest.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/runtest.in
+END
+api_anydb.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_anydb.h
+END
+generate-api_generated
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/generate-api_generated
+END
+api_percentages.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_percentages.h
+END
+api_collapse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_collapse.cc
+END
+api_postingsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_postingsource.cc
+END
+api_collapse.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_collapse.h
+END
+api_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_query.h
+END
+api_posdb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_posdb.cc
+END
+api_stem.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_stem.h
+END
+api_opvalue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_opvalue.cc
+END
+api_opsynonym.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_opsynonym.h
+END
+apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/apitest.cc
+END
+api_serialise.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_serialise.h
+END
+api_compact.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_compact.cc
+END
+unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/unittest.cc
+END
+api_valuestream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_valuestream.cc
+END
+api_compact.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_compact.h
+END
+api_matchspy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_matchspy.cc
+END
+api_weight.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_weight.h
+END
+api_qpbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_qpbackend.h
+END
+dbcheck.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/dbcheck.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/Makefile.am
+END
+dbcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/dbcheck.h
+END
+api_scalability.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_scalability.cc
+END
+api_replacedoc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/api_replacedoc.cc
+END

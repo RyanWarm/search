@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi
+END
+multi_postlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_postlist.cc
+END
+multi_postlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_postlist.h
+END
+multi_termlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_termlist.cc
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/Makefile.mk
+END
+multi_termlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_termlist.h
+END
+multi_valuelist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_valuelist.cc
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/dir_contents
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/Makefile
+END
+multi_alltermslist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/multi/multi_alltermslist.cc
+END

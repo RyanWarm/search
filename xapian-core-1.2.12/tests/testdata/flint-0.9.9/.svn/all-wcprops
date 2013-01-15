@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9
+END
+value.DB
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/value.DB
+END
+flicklock
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/flicklock
+END
+record.DB
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/record.DB
+END
+iamflint
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/iamflint
+END
+postlist.DB
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/postlist.DB
+END
+value.baseA
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/value.baseA
+END
+termlist.DB
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/termlist.DB
+END
+position.DB
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/position.DB
+END
+record.baseA
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/record.baseA
+END
+postlist.baseA
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/postlist.baseA
+END
+termlist.baseA
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/termlist.baseA
+END
+position.baseA
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/flint-0.9.9/position.baseA
+END

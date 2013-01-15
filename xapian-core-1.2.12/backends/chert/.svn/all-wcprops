@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/Makefile.mk
+END
+chert_termlisttable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_termlisttable.cc
+END
+chert_cursor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_cursor.cc
+END
+chert_spelling.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_spelling.cc
+END
+chert_alltermslist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alltermslist.cc
+END
+chert_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_check.h
+END
+chert_modifiedpostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_modifiedpostlist.cc
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/dir_contents
+END
+chert_alldocspostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alldocspostlist.cc
+END
+chert_postlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_postlist.h
+END
+chert_modifiedpostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_modifiedpostlist.h
+END
+chert_compact.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_compact.cc
+END
+chert_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_version.h
+END
+chert_compact.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_compact.h
+END
+chert_databasereplicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_databasereplicator.cc
+END
+chert_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_table.h
+END
+chert_lazytable.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_lazytable.h
+END
+chert_btreebase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_btreebase.cc
+END
+chert_btreebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_btreebase.h
+END
+chert_values.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_values.cc
+END
+chert_positionlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_positionlist.cc
+END
+chert_positionlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_positionlist.h
+END
+chert_dbstats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_dbstats.cc
+END
+chert_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_database.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/Makefile
+END
+chert_termlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_termlist.h
+END
+chert_dbstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_dbstats.h
+END
+chert_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_database.h
+END
+chert_replicate_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_replicate_internal.h
+END
+chert_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_types.h
+END
+chert_valuelist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_valuelist.cc
+END
+chert_valuelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_valuelist.h
+END
+chert_synonym.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_synonym.cc
+END
+chert_check.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_check.cc
+END
+chert_termlisttable.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_termlisttable.h
+END
+chert_document.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_document.cc
+END
+chert_record.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_record.cc
+END
+chert_synonym.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_synonym.h
+END
+chert_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_cursor.h
+END
+chert_spelling.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_spelling.h
+END
+chert_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_metadata.cc
+END
+chert_document.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_document.h
+END
+chert_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_record.h
+END
+chert_postlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_postlist.cc
+END
+chert_alltermslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alltermslist.h
+END
+chert_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_metadata.h
+END
+chert_alldocsmodifiedpostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alldocsmodifiedpostlist.cc
+END
+chert_alldocspostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alldocspostlist.h
+END
+chert_version.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_version.cc
+END
+chert_alldocsmodifiedpostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_alldocsmodifiedpostlist.h
+END
+chert_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_table.cc
+END
+chert_spellingwordslist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_spellingwordslist.cc
+END
+chert_spellingwordslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_spellingwordslist.h
+END
+chert_databasereplicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_databasereplicator.h
+END
+chert_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_values.h
+END
+chert_termlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/chert/chert_termlist.cc
+END

@@ -1,0 +1,56 @@
+#include "UserSearchUtils.h"
+#include <iostream>
+
+using namespace std;
+
+void
+ranking::blending(list<UserSearchItem*> &user_list)
+{
+	map<UserSearchItem::user_source_t, size_t> source_count;
+	ranking::clear_source_count(source_count);
+	list<UserSearchItem*> result;
+	static double T_SCORE = 0.75;
+	static size_t T_SOURCE = 3;
+
+	UserSearchItem::user_source_t preSrc = UserSearchItem::SOURCE_MAX;
+	list<UserSearchItem*>::iterator index = user_list.begin();
+	while( index != user_list.end() ) {
+		UserSearchItem::user_source_t curSrc = (**index).get_source();
+		double curSco = (**index).get_score();
+		if( curSco < T_SCORE ){
+			break;
+		}
+
+		if( curSrc == preSrc && source_count[curSrc] == T_SOURCE ){
+			++index;
+			continue;
+		}
+
+		//insert into result list
+		list<UserSearchItem*>::iterator tmpIndex = index;
+		++index;
+		result.push_back(*tmpIndex);
+		user_list.erase(tmpIndex);
+
+		if( curSrc != preSrc ) {
+			ranking::clear_source_count(source_count);
+			index = user_list.begin();
+			preSrc = curSrc;
+		}
+		source_count[curSrc]++;
+	}
+
+	//merge two lists
+	result.merge(user_list);
+	user_list = result;
+
+	result.clear();
+}
+
+void
+ranking::clear_source_count(map<UserSearchItem::user_source_t, size_t> &sources) {
+	size_t num;
+	for( num = UserSearchItem::SOURCE_WEIBO; num < UserSearchItem::SOURCE_MAX; num++ ) {
+		sources[(UserSearchItem::user_source_t)num] = 0;
+	}
+}

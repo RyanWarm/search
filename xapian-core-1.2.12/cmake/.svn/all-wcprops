@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/cmake
+END
+xapian-config.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/cmake/xapian-config.cmake.in
+END
+xapian-config-version.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/cmake/xapian-config-version.cmake.in
+END

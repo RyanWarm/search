@@ -1,0 +1,16 @@
+RM = rm -rf
+AR = ar rc
+
+OBJS = RankingUtils.o
+
+LIB: $(OBJS)
+	 $(AR) libranking.a $(OBJS)
+
+# All Target
+all: $(LIB)
+
+# Other Targets
+clean:
+	@echo 'Cleaning'
+	$(RM) $(OBJS)
+

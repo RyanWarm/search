@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ESIS/!svn/ver/6853/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common
+END
+remotetcpserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remotetcpserver.h
+END
+msvc_posix_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/msvc_posix_wrapper.h
+END
+valuestats.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/valuestats.h
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/Makefile.mk
+END
+omqueryinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/omqueryinternal.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/utils.h
+END
+omenquireinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/omenquireinternal.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/dir_contents
+END
+safeuuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safeuuid.h
+END
+socket_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/socket_utils.cc
+END
+unaligned.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/unaligned.h
+END
+multimatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/multimatch.h
+END
+valuelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/valuelist.h
+END
+leafpostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/leafpostlist.h
+END
+tcpserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/tcpserver.h
+END
+inmemory_positionlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/inmemory_positionlist.h
+END
+postlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6853/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/postlist.h
+END
+replicate_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replicate_utils.cc
+END
+closefrom.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/closefrom.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/Makefile
+END
+bitstream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/bitstream.cc
+END
+serialise-double.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/serialise-double.h
+END
+autoptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/autoptr.h
+END
+utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/utils.cc
+END
+positionlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/positionlist.h
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/fileutils.h
+END
+getopt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/getopt.cc
+END
+contiguousalldocspostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/contiguousalldocspostlist.h
+END
+registryinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/registryinternal.h
+END
+safefcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safefcntl.h
+END
+safeunistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safeunistd.h
+END
+documentterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/documentterm.h
+END
+str.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/str.h
+END
+gnu_getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/gnu_getopt.h
+END
+safe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safe.cc
+END
+msvc_dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/msvc_dirent.h
+END
+multivaluelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/multivaluelist.h
+END
+weightinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/weightinternal.h
+END
+serialise-double.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/serialise-double.cc
+END
+win32_uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/win32_uuid.h
+END
+databasereplicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/databasereplicator.h
+END
+safewindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safewindows.h
+END
+multialltermslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/multialltermslist.h
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/bitstream.h
+END
+remote-database.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remote-database.h
+END
+fileutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/fileutils.cc
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/output.h
+END
+internaltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/internaltypes.h
+END
+str.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/str.cc
+END
+submatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/submatch.h
+END
+const_database_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/const_database_wrapper.cc
+END
+replication.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replication.h
+END
+remoteconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remoteconnection.h
+END
+noreturn.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/noreturn.h
+END
+remoteprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remoteprotocol.h
+END
+replicatetcpclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replicatetcpclient.h
+END
+pack.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/pack.h
+END
+remoteserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remoteserver.h
+END
+safedirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safedirent.h
+END
+safeerrno.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safeerrno.h
+END
+stringutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/stringutils.cc
+END
+win32_uuid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/win32_uuid.cc
+END
+pretty.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/pretty.h
+END
+stringutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/stringutils.h
+END
+msvc_posix_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/msvc_posix_wrapper.cc
+END
+debuglog.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/debuglog.h
+END
+closefrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/closefrom.h
+END
+replicationprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replicationprotocol.h
+END
+omassert.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/omassert.h
+END
+esetinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/esetinternal.h
+END
+safewinsock2.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safewinsock2.h
+END
+emptypostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/emptypostlist.h
+END
+remotetcpclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/remotetcpclient.h
+END
+realtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/realtime.h
+END
+safesyswait.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safesyswait.h
+END
+termlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/termlist.h
+END
+ortermlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/ortermlist.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/database.h
+END
+replicatetcpserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replicatetcpserver.h
+END
+progclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/progclient.h
+END
+socket_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/socket_utils.h
+END
+safesysstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safesysstat.h
+END
+const_database_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/const_database_wrapper.h
+END
+msvc_dirent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/msvc_dirent.cc
+END
+safesysselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/safesysselect.h
+END
+document.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/document.h
+END
+alltermslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/alltermslist.h
+END
+serialise.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/serialise.h
+END
+io_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/io_utils.cc
+END
+tcpclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/tcpclient.h
+END
+debuglog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/debuglog.cc
+END
+vectortermlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/vectortermlist.h
+END
+expandweight.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/expandweight.h
+END
+io_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/io_utils.h
+END
+replicate_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/common/replicate_utils.h
+END

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ESIS/!svn/ver/8902/Tinybee/zhaopin/backend/trunk/serving/search
+END
+UserSearchSorter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/6854/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchSorter.cpp
+END
+JobSearchSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchSession.cpp
+END
+Utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ESIS/!svn/ver/8845/Tinybee/zhaopin/backend/trunk/serving/search/Utils.hpp
+END
+UserSearchResult.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8506/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchResult.pb.cc
+END
+JobSearchWeight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8878/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchWeight.cpp
+END
+UserSearchResult.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8506/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchResult.pb.h
+END
+UserSearchSorter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/6854/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchSorter.hpp
+END
+Types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ESIS/!svn/ver/8640/Tinybee/zhaopin/backend/trunk/serving/search/Types.hpp
+END
+JobSearchSession.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchSession.hpp
+END
+UserSearchQuery.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8617/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchQuery.proto
+END
+JobSearchWeight.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8673/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchWeight.hpp
+END
+TopKHeap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ESIS/!svn/ver/7323/Tinybee/zhaopin/backend/trunk/serving/search/TopKHeap.hpp
+END
+UserSearchResult.proto
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8502/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchResult.proto
+END
+user_search_engine_rt.zpkg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ESIS/!svn/ver/8866/Tinybee/zhaopin/backend/trunk/serving/search/user_search_engine_rt.zpkg
+END
+JobSearchQuery.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchQuery.pb.cc
+END
+UserDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ESIS/!svn/ver/6888/Tinybee/zhaopin/backend/trunk/serving/search/UserDistance.cpp
+END
+UserSearchQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8645/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchQuery.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/Makefile
+END
+CompanyScoreKeeper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8678/Tinybee/zhaopin/backend/trunk/serving/search/CompanyScoreKeeper.cpp
+END
+UserDistance.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ESIS/!svn/ver/6888/Tinybee/zhaopin/backend/trunk/serving/search/UserDistance.hpp
+END
+UserSearchQuery.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8617/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchQuery.pb.h
+END
+UserSearchQuery.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8617/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchQuery.hpp
+END
+SearchQuery.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ESIS/!svn/ver/7568/Tinybee/zhaopin/backend/trunk/serving/search/SearchQuery.hpp
+END
+CompanyContactsKeeper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ESIS/!svn/ver/8860/Tinybee/zhaopin/backend/trunk/serving/search/CompanyContactsKeeper.cpp
+END
+JobSearchResult.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchResult.pb.cc
+END
+Def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ESIS/!svn/ver/8668/Tinybee/zhaopin/backend/trunk/serving/search/Def.hpp
+END
+CompanyScoreKeeper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8678/Tinybee/zhaopin/backend/trunk/serving/search/CompanyScoreKeeper.hpp
+END
+JobSearchResult.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchResult.pb.h
+END
+start_job_engine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8678/Tinybee/zhaopin/backend/trunk/serving/search/start_job_engine.sh
+END
+Server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ESIS/!svn/ver/8898/Tinybee/zhaopin/backend/trunk/serving/search/Server.cpp
+END
+CompanyContactsKeeper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ESIS/!svn/ver/8617/Tinybee/zhaopin/backend/trunk/serving/search/CompanyContactsKeeper.hpp
+END
+JobSearchQuery.proto
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchQuery.proto
+END
+UserSearchSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchSession.cpp
+END
+start_user_engine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8862/Tinybee/zhaopin/backend/trunk/serving/search/start_user_engine.sh
+END
+Server.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ESIS/!svn/ver/8878/Tinybee/zhaopin/backend/trunk/serving/search/Server.hpp
+END
+UserSearchWeight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8878/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchWeight.cpp
+END
+UserSearchSession.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchSession.hpp
+END
+job_search_engine.zpkg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8678/Tinybee/zhaopin/backend/trunk/serving/search/job_search_engine.zpkg
+END
+JobSearchResult.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchResult.proto
+END
+UserSearchWeight.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchWeight.hpp
+END
+Session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/Session.cpp
+END
+SearchStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ESIS/!svn/ver/7568/Tinybee/zhaopin/backend/trunk/serving/search/SearchStats.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ESIS/!svn/ver/8878/Tinybee/zhaopin/backend/trunk/serving/search/Main.cpp
+END
+JobSearchQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ESIS/!svn/ver/8677/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchQuery.cpp
+END
+Session.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ESIS/!svn/ver/8901/Tinybee/zhaopin/backend/trunk/serving/search/Session.hpp
+END
+SearchStats.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ESIS/!svn/ver/7568/Tinybee/zhaopin/backend/trunk/serving/search/SearchStats.hpp
+END
+JobSearchQuery.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ESIS/!svn/ver/7568/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchQuery.hpp
+END
+JobSearchQuery.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ESIS/!svn/ver/8660/Tinybee/zhaopin/backend/trunk/serving/search/JobSearchQuery.pb.h
+END
+UserSearchQuery.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ESIS/!svn/ver/8617/Tinybee/zhaopin/backend/trunk/serving/search/UserSearchQuery.pb.cc
+END

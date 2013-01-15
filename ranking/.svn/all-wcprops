@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ESIS/!svn/ver/8898/Tinybee/zhaopin/backend/trunk/serving/search/ranking
+END
+RankingUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8898/Tinybee/zhaopin/backend/trunk/serving/search/ranking/RankingUtils.h
+END
+UserSearchUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ESIS/!svn/ver/8828/Tinybee/zhaopin/backend/trunk/serving/search/ranking/UserSearchUtils.cpp
+END
+RankingUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ESIS/!svn/ver/8898/Tinybee/zhaopin/backend/trunk/serving/search/ranking/RankingUtils.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ESIS/!svn/ver/8898/Tinybee/zhaopin/backend/trunk/serving/search/ranking/Makefile
+END

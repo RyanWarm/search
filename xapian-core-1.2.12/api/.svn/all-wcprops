@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/Makefile.mk
+END
+omdatabase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omdatabase.cc
+END
+editdistance.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/editdistance.cc
+END
+emptypostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/emptypostlist.cc
+END
+maptermlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/maptermlist.h
+END
+postingsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/postingsource.cc
+END
+omenquire.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omenquire.cc
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/dir_contents
+END
+documentvaluelist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/documentvaluelist.cc
+END
+keymaker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/keymaker.cc
+END
+replication.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/replication.cc
+END
+omtermlistiterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omtermlistiterator.cc
+END
+documentvaluelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/documentvaluelist.h
+END
+leafpostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6887/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/leafpostlist.cc
+END
+omdocument.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omdocument.cc
+END
+postlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/postlist.cc
+END
+valuesetmatchdecider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/valuesetmatchdecider.cc
+END
+sortable-serialise.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/sortable-serialise.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/Makefile
+END
+error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/error.cc
+END
+decvalwtsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/decvalwtsource.cc
+END
+omqueryinternal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omqueryinternal.cc
+END
+expanddecider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/expanddecider.cc
+END
+omquery.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/8454/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/omquery.cc
+END
+editdistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/editdistance.h
+END
+termlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/termlist.cc
+END
+ompositionlistiterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/ompositionlistiterator.cc
+END
+registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/registry.cc
+END
+valuerangeproc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/valuerangeproc.cc
+END
+version.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/version.cc
+END
+valueiterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/valueiterator.cc
+END
+ompostlistiterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/ompostlistiterator.cc
+END
+compactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/compactor.cc
+END
+errorhandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/errorhandler.cc
+END
+matchspy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/api/matchspy.cc
+END

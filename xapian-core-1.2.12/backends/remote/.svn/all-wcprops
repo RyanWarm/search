@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote
+END
+net_termlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/net_termlist.h
+END
+remote-database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/remote-database.cc
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/Makefile.mk
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/dir_contents
+END
+net_postlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/net_postlist.cc
+END
+remote-document.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/remote-document.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/Makefile
+END
+net_postlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/net_postlist.h
+END
+net_termlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/net_termlist.cc
+END
+remote-document.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/remote/remote-document.h
+END

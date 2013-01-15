@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest
+END
+soaktest_queries.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest_queries.h
+END
+soaktest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest.cc
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/Makefile.mk
+END
+soaktest.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest.h
+END
+soaktest_collated.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest_collated.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/dir_contents
+END
+soaktest_all.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest_all.h
+END
+soaktest_queries.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/soaktest/soaktest_queries.cc
+END

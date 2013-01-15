@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass
+END
+brass_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_values.h
+END
+brass_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_database.cc
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/Makefile.mk
+END
+brass_dbstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_dbstats.h
+END
+brass_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_types.h
+END
+brass_valuelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_valuelist.h
+END
+brass_termlisttable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_termlisttable.cc
+END
+brass_termlisttable.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_termlisttable.h
+END
+dir_contents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/dir_contents
+END
+brass_record.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_record.cc
+END
+brass_document.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_document.cc
+END
+brass_synonym.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_synonym.h
+END
+brass_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_metadata.cc
+END
+brass_postlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_postlist.cc
+END
+brass_postlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_postlist.h
+END
+brass_alldocspostlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_alldocspostlist.cc
+END
+brass_alldocspostlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_alldocspostlist.h
+END
+brass_compact.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_compact.cc
+END
+brass_spellingwordslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_spellingwordslist.h
+END
+brass_btreebase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_btreebase.cc
+END
+brass_inverter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_inverter.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/Makefile
+END
+brass_positionlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_positionlist.h
+END
+brass_termlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_termlist.cc
+END
+brass_dbstats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_dbstats.cc
+END
+brass_termlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_termlist.h
+END
+brass_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_database.h
+END
+brass_replicate_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_replicate_internal.h
+END
+brass_valuelist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_valuelist.cc
+END
+brass_synonym.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_synonym.cc
+END
+brass_check.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_check.cc
+END
+brass_cursor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_cursor.cc
+END
+brass_spelling.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_spelling.cc
+END
+brass_alltermslist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_alltermslist.cc
+END
+brass_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_check.h
+END
+brass_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_cursor.h
+END
+brass_spelling.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_spelling.h
+END
+brass_document.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_document.h
+END
+brass_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_record.h
+END
+brass_alltermslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_alltermslist.h
+END
+brass_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_metadata.h
+END
+brass_version.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_version.cc
+END
+brass_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_table.cc
+END
+brass_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_version.h
+END
+brass_compact.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_compact.h
+END
+brass_spellingwordslist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_spellingwordslist.cc
+END
+brass_lazytable.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_lazytable.h
+END
+brass_databasereplicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_databasereplicator.cc
+END
+brass_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_table.h
+END
+brass_databasereplicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_databasereplicator.h
+END
+brass_btreebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_btreebase.h
+END
+brass_values.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_values.cc
+END
+brass_positionlist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_positionlist.cc
+END
+brass_inverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/backends/brass/brass_inverter.h
+END

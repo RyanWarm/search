@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata
+END
+apitest_rset.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_rset.txt
+END
+apitest_manydocs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_manydocs.txt
+END
+apitest_phrase.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_phrase.txt
+END
+apitest_simpledata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_simpledata.txt
+END
+apitest_allterms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_allterms.txt
+END
+apitest_sortrel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_sortrel.txt
+END
+apitest_sortconsist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_sortconsist.txt
+END
+apitest_declen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_declen.txt
+END
+apitest_space.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_space.txt
+END
+apitest_poslist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_poslist.txt
+END
+etext.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/etext.txt
+END
+apitest_termorder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_termorder.txt
+END
+apitest_allterms2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_allterms2.txt
+END
+apitest_punc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_punc.txt
+END
+apitest_simpledata2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_simpledata2.txt
+END
+apitest_onedoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_onedoc.txt
+END
+apitest_allterms4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ESIS/!svn/ver/6820/Tinybee/zhaopin/backend/trunk/serving/search/xapian-core-1.2.12/tests/testdata/apitest_allterms4.txt
+END
